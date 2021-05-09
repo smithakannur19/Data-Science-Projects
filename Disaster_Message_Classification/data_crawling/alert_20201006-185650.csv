@@ -1,0 +1,108 @@
+fromdate,eventtype,alertlevel,country
+"Mon, 01 Jun 2020 00:00:00 GMT",drought,Orange,"Mexico, United States"
+"Wed, 11 Mar 2020 00:00:00 GMT",drought,Green,Australia
+"Thu, 21 May 2020 00:00:00 GMT",drought,Green,United States
+"Sat, 21 Mar 2020 00:00:00 GMT",drought,Orange,"Lesotho, South Africa"
+"Sat, 21 Mar 2020 00:00:00 GMT",drought,Green,"Belgium, Germany, France, Luxembourg, Netherlands"
+"Sat, 21 Mar 2020 00:00:00 GMT",drought,Orange,"Malawi, Mozambique"
+"Sat, 21 Dec 2019 00:00:00 GMT",drought,Orange,"Bolivia, Brazil"
+"Fri, 21 Jun 2019 00:00:00 GMT",drought,Green,Argentina
+"Wed, 21 Nov 2018 00:00:00 GMT",drought,Green,"Cambodia, Laos, Myanmar, Thailand, Vietnam"
+"Tue, 06 Oct 2020 10:11:46 GMT",earthquake,Green,Fiji
+"Mon, 05 Oct 2020 21:00:00 GMT",cyclone,Green,
+"Sun, 04 Oct 2020 21:00:00 GMT",cyclone,Red,"Mexico, United States"
+"Tue, 29 Sep 2020 09:00:00 GMT",cyclone,Green,
+"Tue, 06 Oct 2020 08:47:01 GMT",earthquake,Green,Indonesia
+"Tue, 06 Oct 2020 06:27:35 GMT",earthquake,Green,Japan
+"Tue, 06 Oct 2020 06:13:40 GMT",earthquake,Green,China
+"Sun, 04 Oct 2020 18:00:00 GMT",cyclone,Green,Japan
+"Tue, 06 Oct 2020 05:54:50 GMT",earthquake,Green,United States
+"Tue, 06 Oct 2020 05:06:39 GMT",earthquake,Green,Chile
+"Tue, 06 Oct 2020 04:24:58 GMT",earthquake,Green,Northern Mid-Atlantic Ridge
+"Fri, 02 Oct 2020 15:00:00 GMT",cyclone,Green,"Mexico, Cuba"
+"Tue, 06 Oct 2020 00:16:46 GMT",earthquake,Green,Indonesia
+"Thu, 21 Nov 2019 00:00:00 GMT",Volcanic eruption,Green,Ecuador
+"Mon, 05 Oct 2020 23:43:21 GMT",earthquake,Green,Kashmir-Xizang Border Region
+"Mon, 05 Oct 2020 19:04:00 GMT",earthquake,Green,
+"Mon, 05 Oct 2020 19:01:27 GMT",earthquake,Green,Antarctica
+"Mon, 05 Oct 2020 14:01:17 GMT",earthquake,Green,Japan
+"Mon, 05 Oct 2020 11:03:15 GMT",earthquake,Green,New Caledonia
+"Mon, 05 Oct 2020 08:48:11 GMT",earthquake,Green,Pacific-Antarctic Ridge
+"Mon, 05 Oct 2020 07:30:50 GMT",earthquake,Green,Indonesia
+"Mon, 05 Oct 2020 07:12:02 GMT",earthquake,Green,New Caledonia
+"Mon, 05 Oct 2020 04:39:23 GMT",earthquake,Green,
+"Mon, 05 Oct 2020 03:07:48 GMT",earthquake,Green,Indonesia
+"Mon, 05 Oct 2020 02:32:24 GMT",earthquake,Green,Japan
+"Mon, 05 Oct 2020 01:27:07 GMT",earthquake,Green,Portugal
+"Mon, 05 Oct 2020 01:10:12 GMT",earthquake,Green,Tonga
+"Sun, 04 Oct 2020 23:20:55 GMT",earthquake,Green,Tonga
+"Sun, 04 Oct 2020 23:19:04 GMT",earthquake,Green,United States
+"Sun, 04 Oct 2020 21:32:03 GMT",earthquake,Green,Colombia
+"Sun, 04 Oct 2020 20:21:13 GMT",earthquake,Green,Peru
+"Sun, 04 Oct 2020 19:12:15 GMT",earthquake,Green,Trinidad and Tobago
+"Sun, 04 Oct 2020 18:16:55 GMT",earthquake,Green,Philippines
+"Sun, 04 Oct 2020 17:36:57 GMT",earthquake,Green,Solomon Islands
+"Sun, 04 Oct 2020 17:13:14 GMT",earthquake,Green,Mexico
+"Sun, 04 Oct 2020 09:35:48 GMT",earthquake,Green,Santa Cruz Islands
+"Sun, 04 Oct 2020 09:23:23 GMT",earthquake,Green,Fiji
+"Sun, 04 Oct 2020 09:17:28 GMT",earthquake,Green,Russian Federation
+"Sun, 04 Oct 2020 07:11:45 GMT",earthquake,Green,"Andreanof Islands, Aleutian Is."
+"Sun, 04 Oct 2020 03:35:23 GMT",earthquake,Green,Solomon Islands
+"Sun, 04 Oct 2020 02:51:33 GMT",earthquake,Green,Japan
+"Sat, 03 Oct 2020 22:53:10 GMT",earthquake,Green,Papua New Guinea
+"Sat, 03 Oct 2020 22:19:30 GMT",earthquake,Green,Philippines
+"Sat, 03 Oct 2020 20:04:31 GMT",earthquake,Green,Fiji
+"Sat, 03 Oct 2020 18:37:21 GMT",earthquake,Green,Antarctica
+"Sat, 03 Oct 2020 16:30:10 GMT",earthquake,Green,"New Britain Region, P.N.G."
+"Sat, 03 Oct 2020 16:26:16 GMT",earthquake,Green,Antarctica
+"Sat, 03 Oct 2020 14:15:56 GMT",earthquake,Green,Philippines
+"Sat, 03 Oct 2020 13:22:47 GMT",earthquake,Green,Greenland
+"Sat, 03 Oct 2020 12:26:24 GMT",earthquake,Green,Japan
+"Sat, 03 Oct 2020 09:31:35 GMT",earthquake,Green,"Southeast Of Honshu, Japan"
+"Sat, 03 Oct 2020 07:04:44 GMT",earthquake,Green,Argentina
+"Sat, 03 Oct 2020 05:03:47 GMT",earthquake,Green,Philippines
+"Sat, 03 Oct 2020 03:25:12 GMT",earthquake,Green,Philippines
+"Sat, 03 Oct 2020 00:11:07 GMT",earthquake,Green,Ecuador
+"Thu, 01 Oct 2020 00:00:00 GMT",flood,Green,Democratic Republic of the Congo
+"Fri, 02 Oct 2020 23:31:13 GMT",earthquake,Green,Northern Mariana Islands
+"Fri, 02 Oct 2020 17:12:54 GMT",earthquake,Green,Tonga
+"Fri, 02 Oct 2020 16:44:42 GMT",earthquake,Green,Peru
+"Fri, 02 Oct 2020 15:15:55 GMT",earthquake,Green,Papua New Guinea
+"Fri, 02 Oct 2020 12:37:48 GMT",earthquake,Green,Antarctica
+"Fri, 02 Oct 2020 11:29:08 GMT",earthquake,Green,Peru
+"Fri, 02 Oct 2020 10:17:33 GMT",earthquake,Green,Antarctica
+"Fri, 02 Oct 2020 09:24:00 GMT",earthquake,Green,Peru
+"Fri, 02 Oct 2020 09:18:24 GMT",earthquake,Green,Peru
+"Fri, 02 Oct 2020 09:07:02 GMT",earthquake,Green,Peru
+"Fri, 02 Oct 2020 06:56:54 GMT",earthquake,Green,Philippines
+"Fri, 02 Oct 2020 01:48:36 GMT",earthquake,Green,Indonesia
+"Fri, 02 Oct 2020 00:00:00 GMT",flood,Green,"France, Italy"
+"Thu, 01 Oct 2020 23:13:03 GMT",earthquake,Green,Argentina
+"Thu, 01 Oct 2020 22:56:19 GMT",earthquake,Green,"Near Coast Of Chiapas, Mexico"
+"Thu, 01 Oct 2020 18:15:36 GMT",earthquake,Green,Indonesia
+"Thu, 01 Oct 2020 14:57:32 GMT",earthquake,Green,Russian Federation
+"Thu, 01 Oct 2020 12:17:10 GMT",earthquake,Green,Tonga
+"Thu, 01 Oct 2020 11:46:30 GMT",earthquake,Green,Tonga
+"Thu, 01 Oct 2020 11:05:38 GMT",earthquake,Green,Greece
+"Thu, 01 Oct 2020 10:34:48 GMT",earthquake,Green,Papua New Guinea
+"Thu, 01 Oct 2020 10:25:08 GMT",earthquake,Green,United States
+"Thu, 01 Oct 2020 05:30:19 GMT",earthquake,Green,Argentina
+"Thu, 01 Oct 2020 03:36:34 GMT",earthquake,Green,United States
+"Thu, 01 Oct 2020 01:13:37 GMT",earthquake,Green,Tonga
+"Thu, 01 Oct 2020 00:31:27 GMT",earthquake,Green,United States
+"Thu, 01 Oct 2020 00:24:40 GMT",earthquake,Green,El Salvador
+"Mon, 28 Sep 2020 00:00:00 GMT",Volcanic eruption,Green,Italy
+"Wed, 30 Sep 2020 22:10:46 GMT",earthquake,Green,Philippines
+"Wed, 30 Sep 2020 22:02:30 GMT",earthquake,Green,Spain
+"Wed, 30 Sep 2020 21:13:10 GMT",earthquake,Green,Philippines
+"Wed, 30 Sep 2020 21:08:08 GMT",earthquake,Green,Philippines
+"Wed, 30 Sep 2020 20:39:18 GMT",earthquake,Green,Indonesia
+"Wed, 30 Sep 2020 19:35:23 GMT",earthquake,Green,Vanuatu
+"Wed, 30 Sep 2020 16:58:42 GMT",earthquake,Green,Antarctica
+"Wed, 30 Sep 2020 05:23:12 GMT",earthquake,Green,Indonesia
+"Wed, 30 Sep 2020 04:37:20 GMT",earthquake,Green,China
+"Wed, 30 Sep 2020 01:16:04 GMT",earthquake,Green,Indonesia
+"Wed, 30 Sep 2020 00:49:39 GMT",earthquake,Green,Philippines
+"Tue, 29 Sep 2020 19:01:18 GMT",earthquake,Green,Samoa
+"Sat, 26 Sep 2020 18:00:00 GMT",cyclone,Green,
+"Tue, 29 Sep 2020 17:55:43 GMT",earthquake,Green,Indonesia

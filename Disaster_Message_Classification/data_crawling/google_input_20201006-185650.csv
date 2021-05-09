@@ -1,0 +1,6 @@
+fromdate,eventtype,alertlevel,country
+"Mon, 01 Jun 2020 00:00:00 GMT",drought,Orange,"Mexico, United States"
+"Sat, 21 Mar 2020 00:00:00 GMT",drought,Orange,"Lesotho, South Africa"
+"Sat, 21 Mar 2020 00:00:00 GMT",drought,Orange,"Malawi, Mozambique"
+"Sat, 21 Dec 2019 00:00:00 GMT",drought,Orange,"Bolivia, Brazil"
+"Sun, 04 Oct 2020 21:00:00 GMT",cyclone,Red,"Mexico, United States"

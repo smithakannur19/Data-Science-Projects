@@ -1,0 +1,20 @@
+match_ratio,partial_match_ratio,token_sort_match_ratio,token_set_match_ratio,search_keyword,result_title,result_link,input_country,input_disaster_event,input_from_date,hash_tag
+37,67,53,53,Mexico cyclone twitter,News about #hurricane on Twitter,https://twitter.com/hashtag/hurricane?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",hurricane
+39,55,49,51,Mexico cyclone twitter,NASAHurricane (@NASAHurricane) | Twitter,https://twitter.com/nasahurricane?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+33,50,44,48,Mexico cyclone twitter,National Hurricane Center (@NHC_Atlantic) | Twitter,https://twitter.com/nhc_atlantic?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+36,50,48,48,Mexico cyclone twitter,National Hurricane Center (@NWSNHC) | Twitter,https://twitter.com/nwsnhc?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+15,43,35,43,Mexico cyclone twitter,Tropical Storm Lorena becomes Hurricane off coast of Mexico,https://twitter.com/i/events/1174587956775903233?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+39,50,39,48,Mexico cyclone twitter,NHC Eastern Pacific (@NHC_Pacific) | Twitter,https://twitter.com/nhc_pacific?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+34,45,39,48,Mexico cyclone twitter,Hurricane Tracker App (@hurrtrackerapp) | Twitter,https://twitter.com/hurrtrackerapp?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+38,55,38,48,Mexico cyclone twitter,Tropical Updates (@WX_Atlantic) | Twitter,https://twitter.com/wx_atlantic?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+47,56,52,52,Mexico cyclone twitter,#tropicalstorm hashtag on Twitter,https://twitter.com/hashtag/tropicalstorm,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",tropicalstorm
+50,73,54,81,Mexico cyclone twitter,Joint Cyclone Center (@JointCyclone) | Twitter,https://twitter.com/jointcyclone?lang=en,Mexico,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+37,53,46,46, United States cyclone twitter,National Hurricane Center (@NWSNHC) | Twitter,https://twitter.com/nwsnhc?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+35,50,40,45, United States cyclone twitter,National Hurricane Center (@NHC_Atlantic) | Twitter,https://twitter.com/nhc_atlantic?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+40,37,44,50, United States cyclone twitter,NASAHurricane (@NASAHurricane) | Twitter,https://twitter.com/nasahurricane?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+39,50,43,43, United States cyclone twitter,National Weather Service (@NWS) | Twitter,https://twitter.com/nws?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+47,67,54,68, United States cyclone twitter,Joint Cyclone Center (@JointCyclone) | Twitter,https://twitter.com/jointcyclone?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+42,53,43,74, United States cyclone twitter,NOAA (@NOAA) | Twitter,https://twitter.com/noaa?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+34,53,38,44, United States cyclone twitter,National Hurricane Center (@NHC_Atlantic) on Twitter,https://twitter.com/nhc_atlantic?lang=en-gb, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+52,50,55,55, United States cyclone twitter,U.S. Tornadoes (@USTornadoes) | Twitter,https://twitter.com/ustornadoes?lang=en, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
+33,40,43,46, United States cyclone twitter,NHC on Twitter - National Hurricane Center,https://www.nhc.noaa.gov/twitter.php, United States,cyclone,"Sun, 04 Oct 2020 21:00:00 GMT",
