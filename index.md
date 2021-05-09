@@ -1,8 +1,6 @@
-## Welcome
+## About Me
 
-You can use the [editor on GitHub](https://github.com/smithakannur19/Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Team oriented problem solver with 3+ years applied data science experience. <br/> I have extensive hands on experience in Machine Learning, Deep Learning, and Natural Language Processing.<br> I would like to contribute / expand my skills and experience in the field of Data Science.
 
 ### Markdown
 
